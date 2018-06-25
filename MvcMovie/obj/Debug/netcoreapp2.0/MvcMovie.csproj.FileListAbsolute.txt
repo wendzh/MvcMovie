@@ -1,0 +1,11 @@
+E:\User\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+E:\User\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+E:\User\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+E:\User\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+E:\User\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+E:\User\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojAssemblyReference.cache
+E:\User\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+E:\User\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+E:\User\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+E:\User\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+E:\User\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
